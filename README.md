@@ -13,7 +13,7 @@ Link do curso: https://www.datascienceacademy.com.br/course/microsoft-power-bi-p
 
 ### Estudo de Caso 1 - Dashboard de Vendas
 
-Este estudo de caso trata de um Analista de Dados de uma determinada empresa especializada em revenda de automóveis com sua operação iniciada em 2016 atuando nos quatro estados da Regição Sudeste, além do Paraná e Bahia.
+Este estudo de caso trata de um Analista de Dados de uma determinada empresa especializada em revenda de automóveis com sua operação iniciada em 2016 atuando nos quatro estados da Região Sudeste, além do Paraná e Bahia.
 
 O Analista de Dados precisa criar um dashboard a pedido de seu Gerente para representar os dados de vendas entre os anos de 2016 e 2019.
 
