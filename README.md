@@ -25,7 +25,7 @@ Com base nestes dados, o Gerente solicita as seguintes informações:
 
 ```
 1 - Total de Vendas por Ano;
-2 - Custo de Entrega do Veículo Por Fabricante;
+2 - Custo de Entrega do Veículo por Fabricante;
 3 - Custo de Mão de Obra Por Estado;
 4 - Total de Vendas Geral e Matriz de Vendas;
 5 - Total de Vendas por UF e se estão acima ou abaixo da média;
@@ -36,5 +36,44 @@ Após a importação dos dados, foram carregados as seguintes colunas, com um to
 
 ![estudo_de_caso_2](https://i.ibb.co/P6pKnv4/Estudo-de-Caso1.jpg)
 
+Com os dados carregados foram criados os gráficos de acordo com as solicitações. 
 
+- Total de Vendas por Ano;
+- Custo de Entrega do Veículo por Fabricante;
+- Custo de Mão de Obra Por Estado;
+- Total de Vendas Geral e Matriz de Vendas.
+
+![dashboard](https://i.ibb.co/3mxB0YH/Screenshot-1.jpg)
+
+Total de Vendas por UF e se estão acima ou abaixo da média;
+
+**Paraná**
+
+![pr](https://i.ibb.co/vQHbMF3/Paran.jpg)
+
+**São Paulo**
+
+![sp](https://i.ibb.co/JcQXGDR/SP.jpg)
+
+**Rio de Janeiro**
+
+![rj](https://i.ibb.co/6yNRNR5/rj.jpg)
+
+**Minas Gerais**
+
+![mg](https://i.ibb.co/8jKjHc4/Minas.jpg)
+
+**Espírito Santo**
+
+![es](https://i.ibb.co/tY0nczc/ES.jpg)
+
+**Bahia**
+
+![ba](https://i.ibb.co/Ms2RGt4/Bahia.jpg)
+
+Vendas da Jaguar por ano e UF;
+
+![jaguar](https://i.ibb.co/6whFBv7/Jaguar.jpg)
+
+Com este Dashboard foi possível extrair as informações apresentadas acima de acordo com o proposto pelo estudo de caso.
 
