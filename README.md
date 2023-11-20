@@ -11,7 +11,7 @@ Este curso é gratuito, muito bem feito, bem didático e extenso, 72h. Recomendo
 
 Link do curso: https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-data-science
 
-### Estudo de Caso 1 - Dashboard de Vendas
+### Estudo de Caso - Dashboard de Vendas
 
 Este estudo de caso trata de um Analista de Dados de uma determinada empresa especializada em revenda de automóveis com sua operação iniciada em 2016 atuando nos quatro estados da Região Sudeste, além do Paraná e Bahia.
 
